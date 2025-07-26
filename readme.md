@@ -35,6 +35,7 @@ All the technical information will be coming from official board docummentation:
 
 * [BCM2836 Architecture](https://datasheets.raspberrypi.com/bcm2836/bcm2836-peripherals.pdf)
 * [Cortex-A7 MPCore Processor](https://developer.arm.com/documentation/ddi0464/f/?lang=en)
+* [BCM2835 ARM Peripherals](https://www.raspberrypi.org/app/uploads/2012/02/BCM2835-ARM-Peripherals.pdf) as the pi 2B BCM2836 is basically the same.
 
 ## Acknowledgments
 
